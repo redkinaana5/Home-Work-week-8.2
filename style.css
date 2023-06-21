@@ -1,0 +1,22 @@
+.head {
+    color: white;
+}
+
+.img {
+    height: 208px;
+    background-color: rgb(215, 215, 215);
+    color: rgb(173, 173, 173);
+}
+
+.navbar-text {
+    color: white;
+}
+
+.w-auto {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
